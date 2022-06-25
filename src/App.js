@@ -16,18 +16,18 @@ function App() {
 
   return (
     <div className="App">
-      {loading ? (
+      {/* {loading ? (
         <div className="loader">
           <ClockLoader color={"#56c9aa"} loading={loading} size={150} />
         </div>
-      ) : (
+      ) : ( */}
         <React.Fragment>
           <Header />
           <Routes>
             <Route path="/" element={<Home />} />
           </Routes>
         </React.Fragment>
-      )}
+      {/* )} */}
     </div>
   );
 }
