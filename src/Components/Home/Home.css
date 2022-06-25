@@ -1,0 +1,47 @@
+.home-select {
+    padding: 5px 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.home-container {
+    padding: 10px 20px;
+    display: flex;
+    align-items: start;
+    justify-content: space-evenly;
+}
+
+textarea {
+    background: url(http://i.imgur.com/2cOaJ.png);
+    background-attachment: local;
+    background-repeat: no-repeat;
+    padding-left: 35px;
+    padding-top: 10px;
+    border-color: #212121;
+    background-color: #F5F5F5;
+}
+
+.home-textField,
+.home-outputField {
+    flex: 0.5;
+}
+
+.home-outputField {
+    display: flex;
+    flex-direction: column;
+}
+
+.output {
+    padding: 5px;
+}
+
+@media all and (max-width: 700px) {
+    .home-container {
+        flex-direction: column;
+    }
+
+    .home-outputField {
+        padding-top: 10px;
+    }
+}
