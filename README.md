@@ -9,11 +9,11 @@ Create, design and implement a web-based application capable of running SQL quer
 
 ## Page Load Time
 The Page Load Time Of this application is 5543 ms.
-- 2 ms  Loading
-- 193 ms  Scripting
-- 13 ms  Rendering
-- 2 ms  Painting
+- 3 ms  Loading
+- 213 ms  Scripting
+- 10 ms  Rendering
+- 3 ms  Painting
 - 33 ms  System
-- 5299 ms  Idle
+- 6529 ms  Idle
 
 I measured The Load Time Of this Application using Chrome DevTools.
