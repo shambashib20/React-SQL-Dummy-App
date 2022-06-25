@@ -10,7 +10,7 @@ function Header() {
           <img src={Logo} alt="DefaultLogo" />
         </div>
         <div className="logo-name">
-          <h2>SQLCompiler</h2>
+          <h2>SQL Playground</h2>
         </div>
       </div>
     </div>

@@ -11,7 +11,7 @@ function InputField({ value, onChange }) {
         rows="30"
         cols="85"
         value={value}
-        onChange={handleChange}
+        onChange={handleChange}        
       ></textarea>
     </form>
   );
