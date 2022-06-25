@@ -16,7 +16,7 @@ function CustomTable({ data, columns }) {
             sx={{
               "& th": {
                 color: "#fff",
-                backgroundColor: "#212121",
+                backgroundColor: "teal",
                 fontWeight: "bold",
               },
             }}
