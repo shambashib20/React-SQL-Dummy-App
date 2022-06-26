@@ -5,7 +5,7 @@ Create, design and implement a web-based application capable of running SQL quer
 1. React Material UI (@material-ui/core)
 2. React Router Dom (react-router-dom)
 3. React Spinner (react-spinner)
-4. Firebase (firebase)
+
 
 ## Page Load Time
 The Page Load Time Of this application is 5543 ms.
