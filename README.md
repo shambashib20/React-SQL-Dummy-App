@@ -16,4 +16,4 @@ The Page Load Time Of this application is 5543 ms.
 - 33 ms  System
 - 6529 ms  Idle
 
-I measured The Load Time Of this Application using Chrome DevTools.
+
